@@ -10,7 +10,7 @@ I love tackling problems and I love learning. Currently, I'm focusing on buildin
 - **Tech Stack**: python, django, Plotly.js, HTML, CSS
 - **Learnings**: Full-stack web development, data visualization, deployment
 
-How to Reach Me: 
+### How to Reach Me: 
 - Email: anyaliu@bu.edu
 - LinkedIn: linkedin.com/in/anya-liu5/
 
